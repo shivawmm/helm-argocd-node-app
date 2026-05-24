@@ -1,4 +1,4 @@
-# 🚀 Project 3 — Helm + ArgoCD GitOps Platform
+# 🚀  Helm + ArgoCD GitOps Platform
 
 ## 📌 Overview
 
