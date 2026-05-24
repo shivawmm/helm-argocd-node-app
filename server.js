@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
   const html = `
     <html>
       <head>
-        <title>Helm + ArgoCD Demo</title>
+        <title>Helm + ArgoCD Demo v2</title>
 
         <style>
           body {
