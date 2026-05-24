@@ -1,0 +1,24 @@
+{
+  "name": "helm-argocd-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivawmm/helm-argocd-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shivawmm/helm-argocd-node-app/issues"
+  },
+  "homepage": "https://github.com/shivawmm/helm-argocd-node-app#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
